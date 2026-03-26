@@ -1,4 +1,3 @@
-💡 A beginner-friendly Python project for performing basic calculations.
 # 🧮 Terminal Calculator
 
 A simple calculator built using Python that performs basic arithmetic operations.
