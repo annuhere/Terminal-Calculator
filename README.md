@@ -1,3 +1,4 @@
+💡 A beginner-friendly Python project for performing basic calculations.
 # 🧮 Terminal Calculator
 
 A simple calculator built using Python that performs basic arithmetic operations.
@@ -8,12 +9,13 @@ A simple calculator built using Python that performs basic arithmetic operations
 * Continuous calculations
 * Error handling
 
-## ▶️ How to Run
+## 📸 Output
 
-```bash id="nljl4m"
-python calculator.py
-```
+🧮 Welcome to Calculator
+Enter first number: 5
+Enter operator: +
+Enter second number: 3
+Result: 8
 
----
 
 ✨ Made with ❤️ by Anushika
